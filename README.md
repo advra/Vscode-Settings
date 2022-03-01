@@ -1,4 +1,4 @@
-# Vscode-Settings
+# Vscode Terminal Color Settings
 My Personal VSCode colorization settings for terminal 
 
 1. Open vscode]
